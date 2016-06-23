@@ -1,0 +1,11 @@
+node_modules/
+chunk/
+mapped/
+processed/
+proxy-pool.json
+*.log
+*.csv
+*.txt
+*.in
+*.out
+out.*

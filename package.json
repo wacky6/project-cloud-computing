@@ -1,0 +1,16 @@
+{
+  "name": "spider-for-hadoop",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "html-to-text": "^2.1.0",
+    "webhdfs": "^0.3.0"
+  }
+}
